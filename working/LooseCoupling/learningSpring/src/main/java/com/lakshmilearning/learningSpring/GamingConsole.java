@@ -8,7 +8,7 @@ public class GamingConsole {
     public static void main(String[] args) {
         var g1 = new Game01();
         var g2 = new Game02();
-        var gameRunner = new GameRunner(g2);
+        var gameRunner = new GameRunner(g1);
 
         gameRunner.run();
         g2.jump();
