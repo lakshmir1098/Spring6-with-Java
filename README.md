@@ -4,7 +4,7 @@
 * ### Tight coupling 
   Coupling is how much effort is needed , when changing something. Example of tight coupling is, let say we have 3  games and these games are called and run in gamer class. So, if everytime to run each game if we have to change the gamer class to call that particular game, it not correct right. This is called tight coupling. We always have to keep our code loosely coupled. To overcome this problem we can use "Interface".
 
-  Ref : [Loose Coupling Game App using Interface](https://github.com/lakshmir1098/Spring6-with-Java/tree/master/working/LooseCoupling/learningSpring/src/main/java/com/lakshmilearning/learningSpring)
+  Ref : [Loose Coupling Game App using Interface](https://github.com/lakshmir1098/Spring6-with-Java/tree/master/working-directory/MasteringSpring/src/main/java/com/learnings/MasteringSpring/LooselyCoupling)
  
     Tight Coupling |  LooseCoupling
     :---: | :---:
@@ -14,7 +14,7 @@
     
     Steps to Launch a Spring Application:
 
-    Ref : [SpringIntro](https://github.com/lakshmir1098/Spring6-with-Java/tree/master/working/SpringIntro/learningSpring/src/main/java/com/lakshmilearning/learningSpring) 
+    Ref : [SpringIntro](https://github.com/lakshmir1098/Spring6-with-Java/tree/master/working-directory/MasteringSpring/src/main/java/com/learnings/MasteringSpring/SpringIntro) 
 1. Create a configuration class with `@Configuration` annotation.
 
     ```java
